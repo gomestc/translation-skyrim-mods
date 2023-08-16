@@ -1,4 +1,3 @@
-# 🎮Tradução de mods para Skyrim
 ## ✅ Aviso
 São traduções não-oficiais feita com o intuito de compartilhamento e backup pessoal.
 ## 💽 Como baixar?
