@@ -1,6 +1,6 @@
-# 🇧🇷🎮Tradução de mods para Skyrim
+# 🎮Tradução de mods para Skyrim
 ## ✅ Introdução
-Olá, este é um repositório dedicado para tradução de mods para The Elder Scrolls V: Skyrim.
+Olá, este é um repositório dedicado para tradução de mods para The Elder Scrolls V: Skyrim Legendary Edition.
 
 Os mods não são de minha autoria, apenas fiz a tradução deles.
 
