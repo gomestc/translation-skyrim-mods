@@ -1,3 +1,4 @@
+🇧🇷 [Switch to Portuguese](README.md)
 ## ✅ Notice
 These are unofficial translations made for the purpose of sharing and personal backup.
 ## 💽 How to download?
